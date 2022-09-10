@@ -1,0 +1,71 @@
+.prof{
+    color: red;
+}
+.options{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+    list-style: none;
+}
+.options >a{
+    display: inline;
+    padding: 0 15px;
+    text-decoration: none;
+}
+.head{
+    text-align: center;
+    color: red;
+}
+*{
+    font-family: Poppins;
+}
+.p1{
+    font-size: 25px;
+}
+.h12{
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.html{
+    font-size: 100px;
+}
+.bs{
+    font-size: 25px;
+}
+.ht{
+    font-size: 25px;
+}
+.social{
+    color: black;
+}
+.div-ul{
+    background-color: black;
+    color: white;
+}
+.html-{
+    color: white;
+}
+.listclass-ul{
+    display: flex;
+    justify-content: space-between;
+}
+.listclass-ul >a{
+    text-decoration: none;
+    padding: 25px 50px;
+    list-style: none;
+}
+.home{
+    color: white;
+}
+.header-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+     
+     
+     
+

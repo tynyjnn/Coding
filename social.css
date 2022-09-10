@@ -1,0 +1,40 @@
+*{
+    font-family: Poppins;
+    text-decoration: none;
+}
+
+.header-div{
+    height: 5cm;
+}
+.div-ul{
+    font: 20px;
+    background-color: black;
+    color: white;
+    
+}
+.listclass-ul{
+    display: flex;
+    padding: 25px 50px;
+    justify-content: space-between;
+    list-style: none;
+}
+.home{
+    color: white;
+}
+.html{
+    color: white;
+}
+.insta{
+    font-size: 150px;
+}
+.twit{
+    font-size: 150px;
+}
+.fb{
+    font-size: 150px;
+}
+.disc{
+    font-size: 150px;
+}
+
+

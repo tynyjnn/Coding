@@ -1,0 +1,98 @@
+.prof{
+    color: red;
+}
+.options{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+    list-style: none;
+}
+.options >a{
+    display: inline;
+    padding: 0 15px;
+}
+.head{
+    text-align: center;
+    color: red;
+}
+*{
+    font-family: Poppins;
+}
+.p1{
+    font-size: 25px;
+}
+.h12{
+    font-size: 50px;
+    color: red;
+}
+
+
+.bs{
+    font-size: 25px;
+}
+.ht{
+    font-size: 25px;
+}
+.social{
+    color: black;
+}
+.div-ul{
+    background-color: black;
+    color: white;
+    
+}
+.listclass-ul{
+    display: flex;
+    justify-content: space-between;
+    padding:  25px 50px;
+}
+.listclass-ul >a{
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+}
+.html{
+    color: white;
+}
+.options >a{
+    text-decoration: none;
+}
+.home{
+    color: white;
+}
+.about-us{
+    background-color : black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.about{
+    text-align: center;
+}
+.header-div{
+    display: flex;
+    justify-content: space-between;
+}
+.media >a{
+    list-style: none;
+}
+.flex{
+    display: flex;
+    
+}
+
+
+.us{
+    text-align: center;
+}
+.line{
+    font-size: 60px;
+}
+.footer-div{
+    text-align: center;
+}
+.footer-end{
+    text-align: center;
+}
+
+
